@@ -10,6 +10,7 @@ Gestalt design principles include:
 - Dominance
 - Unity
 
+---
 
 ![](screenshots/screen.1.png)![](screenshots/screen.2.png)![](screenshots/screen.3.png)![](screenshots/screen.4.png)
 
